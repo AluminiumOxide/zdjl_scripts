@@ -1,0 +1,13 @@
+{"delay":"0","delayUnit":1,"repeatCount":0,"pauseOnFail":true,"count":12,"description":"","minVerCode":41,"minVerName":"2.5.0","screenWidth":1080,"screenHeight":2340,"screenDpi":2.75}
+{"type":"点击","duration":"100","delay":"100","delayUnit":0,"posData":{"type":"location","x":"95%","y":"14%"}}
+{"type":"点击","duration":"100","delay":"500","delayUnit":0,"posData":{"type":"location","x":"85%","y":"86%"}}
+{"type":"点击","duration":"100","delay":"500","delayUnit":0,"posData":{"type":"location","x":"78%","y":"78%"}}
+{"type":"控制执行","delay":"500","delayUnit":0,"condition":{"type":"colorFound","runWhenFalse":true,"color":{"type":"color","x":"749dp","y":"23dp","color":"#dbdcfe","limitPosX":"750dp","limitPosY":"23dp","similarPercent":90}},"controlRunType":"jumpTo","jumpToPosition":"-1","ContinueParentExecute":false}
+{"type":"点击","duration":"100","delay":"100","delayUnit":0,"desc":"开启自动","posData":{"type":"location","x":"89%","y":"5%"}}
+{"type":"单指手势","delay":"100","delayUnit":0,"gestureActions":[{"type":"滑动","duration":"200","delay":"0","delayUnit":0,"startPos":{"type":"location","x":"23%","y":"84%"},"endPos":{"type":"location","x":"20%","y":"65%"}},{"type":"滑动","duration":"2060","delay":"0","delayUnit":0,"startPos":{"type":"location","x":"20%","y":"65%"},"endPos":{"type":"location","x":"20%","y":"55%"}}]}
+{"type":"点击","duration":"100","delay":"100","delayUnit":0,"posData":{"type":"location","x":"75%","y":"50%"}}
+{"type":"控制执行","delay":"10","delayUnit":0,"repeatCount":1,"condition":{"type":"colorFound","runWhenFalse":true,"color":{"type":"color","x":"675dp","y":"16dp","color":"#f6f6ff","limitArea":"82.579185% 0% 85.972855% 6.15556%","limitPosX":"673dp","limitPosY":"17dp","similarPercent":90}},"desc":"检测是否打完，否则到8","controlRunType":"jumpTo","jumpToPosition":"-1","ContinueParentExecute":false}
+{"type":"点击","duration":"200","delay":"2500","delayUnit":0,"desc":"退出部分","posData":{"type":"location","x":"85%","y":"5%"}}
+{"type":"点击","duration":"100","delay":"600","delayUnit":0,"posData":{"type":"location","x":"64%","y":"66%"}}
+{"type":"点击","duration":"100","delay":"500","delayUnit":0,"posData":{"type":"location","x":"55%","y":"42%"}}
+{"type":"控制执行","delay":"50","delayUnit":0,"condition":{"type":"colorFound","runWhenFalse":true,"color":{"type":"color","x":"46dp","y":"14dp","color":"#f5dc96","limitArea":"80.04525% 8.888889% 85.565605% 18.703703%","limitPosX":"47dp","limitPosY":"13dp","similarPercent":90}},"desc":"退出前反复","controlRunType":"jumpTo","jumpToPosition":"11","ContinueParentExecute":false}
