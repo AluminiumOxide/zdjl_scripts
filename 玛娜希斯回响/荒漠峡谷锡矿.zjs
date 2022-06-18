@@ -1,0 +1,13 @@
+{"delay":"0","delayUnit":1,"repeatCount":0,"pauseOnFail":true,"count":12,"description":"","minVerCode":41,"minVerName":"2.5.0","screenWidth":1080,"screenHeight":2340,"screenDpi":2.75}
+{"type":"点击","duration":"100","delay":"100","delayUnit":0,"posData":{"type":"location","x":"97%","y":"93%"}}
+{"type":"点击","duration":"100","delay":"0.8","delayUnit":1,"posData":{"type":"location","x":"28%","y":"50%"}}
+{"type":"点击","duration":"100","delay":"1500","delayUnit":0,"desc":"进图","posData":{"type":"location","x":"79%","y":"79%"}}
+{"type":"单指手势","delay":"16","delayUnit":1,"gestureActions":[{"type":"滑动","duration":"331","delay":"0","delayUnit":0,"startPos":{"type":"location","x":"26%","y":"77%"},"endPos":{"type":"location","x":"15%","y":"67%"}},{"type":"点击","duration":"704","delay":"0","delayUnit":0,"posData":{"type":"location","x":"15%","y":"67%"}}]}
+{"type":"单指手势","delay":"100","delayUnit":0,"gestureActions":[{"type":"滑动","duration":"208","delay":"0","delayUnit":0,"startPos":{"type":"location","x":"25%","y":"89%"},"endPos":{"type":"location","x":"15%","y":"83%"}},{"type":"滑动","duration":"5500","delay":"0","delayUnit":0,"startPos":{"type":"location","x":"15%","y":"83%"},"endPos":{"type":"location","x":"9%","y":"79%"}}]}
+{"type":"单指手势","delay":"100","delayUnit":0,"gestureActions":[{"type":"滑动","duration":"214","delay":"0","delayUnit":0,"startPos":{"type":"location","x":"23%","y":"85%"},"endPos":{"type":"location","x":"18%","y":"73%"}},{"type":"滑动","duration":"1007","delay":"0","delayUnit":0,"startPos":{"type":"location","x":"18%","y":"73%"},"endPos":{"type":"location","x":"16%","y":"68%"}},{"type":"滑动","duration":"1500","delay":"0","delayUnit":0,"startPos":{"type":"location","x":"16%","y":"68%"},"endPos":{"type":"location","x":"7%","y":"79%"}}]}
+{"type":"单指手势","delay":"100","delayUnit":0,"gestureActions":[{"type":"滑动","duration":"200","delay":"0","delayUnit":0,"startPos":{"type":"location","x":"37%","y":"66%"},"endPos":{"type":"location","x":"25%","y":"68%"}},{"type":"滑动","duration":"250","delay":"0","delayUnit":0,"startPos":{"type":"location","x":"25%","y":"68%"},"endPos":{"type":"location","x":"22%","y":"72%"}}]}
+{"type":"点击","duration":"125","delay":"15000","delayUnit":0,"desc":"采集","posData":{"type":"location","x":"90%","y":"58%"}}
+{"type":"点击","duration":"100","delay":"2500","delayUnit":0,"posData":{"type":"location","x":"85%","y":"3%"}}
+{"type":"点击","duration":"124","delay":"1000","delayUnit":0,"posData":{"type":"location","x":"64%","y":"64%"}}
+{"type":"点击","duration":"100","delay":"500","delayUnit":0,"posData":{"type":"location","x":"58%","y":"44%"}}
+{"type":"点击","duration":"10","delay":"14000","delayUnit":0,"posData":{"type":"location","x":"57%","y":"39%"}}

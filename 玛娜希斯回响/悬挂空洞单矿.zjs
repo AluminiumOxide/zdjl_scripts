@@ -1,0 +1,16 @@
+{"delay":"0","delayUnit":1,"repeatCount":0,"pauseOnFail":true,"count":15,"description":"","minVerCode":41,"minVerName":"2.5.0","screenWidth":1080,"screenHeight":2340,"screenDpi":2.75}
+{"type":"滑动","duration":"478","delay":"200","delayUnit":0,"startPos":{"type":"location","x":"13%","y":"65%"},"endPos":{"type":"location","x":"21%","y":"80%"}}
+{"type":"滑动","duration":"623","delay":"100","delayUnit":0,"startPos":{"type":"location","x":"13%","y":"74%"},"endPos":{"type":"location","x":"31%","y":"69%"}}
+{"type":"点击","duration":"125","delay":"1500","delayUnit":0,"posData":{"type":"location","x":"88%","y":"57%"}}
+{"type":"点击","duration":"108","delay":"2500","delayUnit":0,"posData":{"type":"location","x":"93%","y":"68%"}}
+{"type":"滑动","duration":"420","delay":"1200","delayUnit":0,"startPos":{"type":"location","x":"55%","y":"52%"},"endPos":{"type":"location","x":"57%","y":"13%"}}
+{"type":"滑动","duration":"600","delay":"100","delayUnit":0,"startPos":{"type":"location","x":"56%","y":"51%"},"endPos":{"type":"location","x":"58%","y":"26%"}}
+{"type":"点击","duration":"143","delay":"1421","delayUnit":0,"posData":{"type":"location","x":"65%","y":"76%"}}
+{"type":"点击","duration":"159","delay":"6000","delayUnit":0,"posData":{"type":"location","x":"8%","y":"7%"}}
+{"type":"单指手势","delay":"2500","delayUnit":0,"gestureActions":[{"type":"滑动","duration":"438","delay":"0","delayUnit":0,"startPos":{"type":"location","x":"14%","y":"77%"},"endPos":{"type":"location","x":"21%","y":"62%"}},{"type":"滑动","duration":"2000","delay":"0","delayUnit":0,"startPos":{"type":"location","x":"21%","y":"62%"},"endPos":{"type":"location","x":"23%","y":"65%"}}]}
+{"type":"滑动","duration":"600","delay":"100","delayUnit":0,"startPos":{"type":"location","x":"10%","y":"76%"},"endPos":{"type":"location","x":"16%","y":"88%"}}
+{"type":"点击","duration":"158","delay":"500","delayUnit":0,"posData":{"type":"location","x":"88%","y":"56%"}}
+{"type":"点击","duration":"108","delay":"1500","delayUnit":0,"posData":{"type":"location","x":"15%","y":"22%"}}
+{"type":"点击","duration":"126","delay":"600","delayUnit":0,"posData":{"type":"location","x":"65%","y":"60%"}}
+{"type":"点击","duration":"125","delay":"600","delayUnit":0,"posData":{"type":"location","x":"65%","y":"66%"}}
+{"type":"点击","duration":"99","delay":"2500","delayUnit":0,"posData":{"type":"location","x":"59%","y":"59%"}}
